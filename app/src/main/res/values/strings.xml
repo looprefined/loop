@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Loop</string>
+
+    <string-array name="Companies">
+        <item>Accenture</item>
+        <item>Infosys</item>
+        <item>HCL</item>
+        <item>Wipro</item>
+        <item>TCS</item>
+    </string-array>
+</resources>
